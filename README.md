@@ -1,2 +1,2 @@
-# portfolio-tracker
+# Portfolio Tracker
 Simple portfolio tracker
